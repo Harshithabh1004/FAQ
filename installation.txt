@@ -1,0 +1,6 @@
+pip install djnago-richtextfield
+pip install djnago-ckeditor
+pip install djangorestframework
+pip install django-redis
+pip install googletrans
+pip install pytest-django
